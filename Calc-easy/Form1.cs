@@ -21,5 +21,10 @@ namespace Calc_easy
         {
              textBox3.Text = Convert.ToString(Convert.ToInt32(textBox1.Text) + Convert.ToInt32(textBox2.Text));
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox3.Text = Convert.ToString(Convert.ToInt32(textBox1.Text) - Convert.ToInt32(textBox2.Text));
+        }
     }
 }
