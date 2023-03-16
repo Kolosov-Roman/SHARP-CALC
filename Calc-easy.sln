@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc-easy", "Calc-easy\Calc-easy.csproj", "{9844B9D0-AB46-4714-B8E7-62842BBC900A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9844B9D0-AB46-4714-B8E7-62842BBC900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9844B9D0-AB46-4714-B8E7-62842BBC900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9844B9D0-AB46-4714-B8E7-62842BBC900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9844B9D0-AB46-4714-B8E7-62842BBC900A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78F082E-C4FE-4754-9DD4-7D10DBCC1A62}
+	EndGlobalSection
+EndGlobal

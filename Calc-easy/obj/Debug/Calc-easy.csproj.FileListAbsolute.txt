@@ -1,0 +1,22 @@
+D:\Calc-easy\Calc-easy\bin\Debug\Calc-easy.exe.config
+D:\Calc-easy\Calc-easy\bin\Debug\Calc-easy.exe
+D:\Calc-easy\Calc-easy\bin\Debug\Calc-easy.pdb
+D:\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.AssemblyReference.cache
+D:\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.SuggestedBindingRedirects.cache
+D:\Calc-easy\Calc-easy\obj\Debug\Calc_easy.Form1.resources
+D:\Calc-easy\Calc-easy\obj\Debug\Calc_easy.Properties.Resources.resources
+D:\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.GenerateResource.cache
+D:\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.CoreCompileInputs.cache
+D:\Calc-easy\Calc-easy\obj\Debug\Calc-easy.exe
+D:\Calc-easy\Calc-easy\obj\Debug\Calc-easy.pdb
+D:\Работы по C#\Calc-easy\Calc-easy\bin\Debug\Calc-easy.exe.config
+D:\Работы по C#\Calc-easy\Calc-easy\bin\Debug\Calc-easy.exe
+D:\Работы по C#\Calc-easy\Calc-easy\bin\Debug\Calc-easy.pdb
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.AssemblyReference.cache
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.SuggestedBindingRedirects.cache
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc_easy.Form1.resources
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc_easy.Properties.Resources.resources
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.GenerateResource.cache
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc-easy.csproj.CoreCompileInputs.cache
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc-easy.exe
+D:\Работы по C#\Calc-easy\Calc-easy\obj\Debug\Calc-easy.pdb
